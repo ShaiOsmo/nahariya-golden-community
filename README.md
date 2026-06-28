@@ -1,55 +1,145 @@
-# קהילת הזהב – נהריה
+# Nahariya Golden Community
 
-## אתר הדגמה (Demo)
+## Overview
 
-אתר זה נבנה כפרויקט הדגמה במסגרת לימוד ופיתוח אתרי אינטרנט.
+Nahariya Golden Community is a demo website designed as a concept for a digital community center for senior citizens.
 
-מטרת האתר היא להציג רעיון למרכז קהילתי דיגיטלי עבור בני הגיל השלישי, המרכז במקום אחד מגוון פעילויות, תכנים ואפשרויות להשתתפות בקהילה.
+The website brings together a variety of activities in one place, allowing older adults to easily access health and wellness content, brain games, educational lectures, activities with grandchildren, community events, volunteering opportunities, and contact information.
 
-האתר נועד להעניק מקום נגיש, נעים ומעשיר להפגת זמן איכות בבית, במיוחד בתקופה המאתגרת שבה אנו נמצאים. באמצעות תרגילי בריאות ותנועה, משחקי חשיבה, הרצאות, פעילויות משותפות עם הנכדים, מפגשים חברתיים ואפשרויות להתנדבות,ניתן לשמור על אורח חיים פעיל, ללמוד דברים חדשים ולהמשיך להיות חלק מקהילה תומכת.
-
-## האתר כולל
-
-### 🏃 בריאות ותנועה
-תכנים המעודדים שמירה על אורח חיים בריא באמצעות סרטוני פיזיותרפיה, ריפוי בעיסוק ותרגילי כושר המותאמים לבני הגיל השלישי.
-
-### 🧠 משחקי חשיבה
-מגוון משחקים ופעילויות המסייעים בשמירה על הזיכרון, הריכוז והיכולות הקוגניטיביות, כגון תשבצים, סודוקו, חידות ואתגרי חשיבה.
-
-### 🎓 עולם של ידע והרצאות
-אוסף הרצאות וסרטונים במגוון תחומים, בהם בריאות, היסטוריה, טכנולוגיה, ספרות, תרבות, טבע ומדע – במטרה לעודד למידה מתמשכת והעשרת הידע.
-
-### 👨‍👩‍👧 מבלים עם הנכדים
-רעיונות לפעילויות משותפות עם הנכדים, כולל משחקים, מתכונים להכנה משותפת, יצירה, סיפורים וסרטונים המתאימים לכל המשפחה.
-
-### 🤝 נפגשים בקהילה
-לוח אירועים ופעילויות קהילתיות המרכז מידע על הרצאות, ערבי שירה, הצגות, הקרנות סרטים, חוגים, מפגשים חברתיים ואירועים המתקיימים במרכזים קהילתיים ברחבי העיר.
-
-### ❤️ התנדבות
-מרכז מידע על אפשרויות התנדבות בקהילה, בעמותות, בבתי חולים, בגופי רווחה ובסיוע למען חיילי צה"ל, במטרה לעודד מעורבות חברתית ונתינה.
-
-### 📞 יצירת קשר
-עמוד המאפשר ליצור קשר עם מנהלי האתר, לשלוח הצעות ורעיונות לשיפור, לדווח על בעיות, ולהציע פעילויות ותכנים חדשים לטובת הקהילה.
-
-**שימו לב:**  
-האתר הינו אתר הדגמה בלבד. התכנים, הקישורים והפעילויות המוצגים בו נועדו להמחשה ואינם מייצגים פעילות רשמית של עיריית נהריה או של כל גוף אחר.
+This project was developed as part of learning and practicing front-end web development using HTML, CSS, and JavaScript, with an emphasis on accessibility, usability, and responsive design.
 
 ---
 
-**פותח על ידי:**  
-Shai Osmo
+## Purpose
 
-**טכנולוגיות:**  
-HTML • CSS • JavaScript
+The purpose of this project is to demonstrate how a simple digital platform can improve the daily lives of senior citizens by providing meaningful activities, encouraging social engagement, and making useful information easily accessible.
 
+The website was designed as a demonstration project, especially for periods when people spend more time at home and are looking for ways to stay active, connected, and engaged.
 
+---
+
+## Features
+
+- 🏃 Health & Wellness
+  - Home exercise ideas
+  - Physical activity recommendations
+  - Healthy lifestyle content
+
+- 🧠 Brain Games
+  - Memory games
+  - Logic puzzles
+  - Cognitive exercises
+
+- 🎓 Educational Lectures
+  - Health
+  - History
+  - Literature
+  - Technology
+  - Personal Development
+  - Culture & Arts
+
+- 👨‍👩‍👧 Activities with Grandchildren
+  - Board games
+  - Easy cooking recipes
+  - Creative activities
+  - Storytelling
+  - Educational videos
+  - Family challenges
+
+- 🤝 Community Events
+  - Singing evenings
+  - Movie screenings
+  - Live performances
+  - Social circles
+  - Community gatherings
+
+- ❤️ Volunteering
+  - Support for soldiers
+  - Preparing food packages
+  - Community logistics
+  - Hospitals
+  - Welfare organizations
+  - Non-profit organizations
+
+- 📞 Contact
+  - Contact form
+  - Suggestions and feedback
+
+---
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- HTML5 UP – Phantom Template
+
+---
+
+## Project Structure
+
+```
+├── index.html
+├── health.html
+├── brain-games.html
+├── lectures.html
+├── grandchildren.html
+├── meetings.html
+├── volunteer.html
+├── contact.html
+├── assets/
+├── images/
+└── README.md
+```
+
+---
+
+## Responsive Design
+
+The website is fully responsive and designed to work across desktops, tablets, and mobile devices.
+
+---
+
+## Future Improvements
+
+Possible future enhancements include:
+
+- User registration and login
+- Event calendar
+- Online lecture streaming
+- Community forum
+- Volunteer registration system
+- Search functionality
+- Accessibility improvements
+- Multi-language support
+- AI-powered recommendation system for activities
+
+---
+
+## Project Status
+
+This project is a demonstration website created for learning purposes and portfolio presentation.
+
+It represents the concept of a digital community platform for senior citizens and showcases front-end development skills.
+
+---
 
 ## Credits
 
-This project is based on the **Phantom** template by **HTML5 UP**.
+Website template based on **Phantom** by **HTML5 UP**.
 
-Template: https://html5up.net/phantom
+Template:
+https://html5up.net/phantom
 
-Design by AJ (AJ Kohn) – HTML5 UP.
+License:
+https://html5up.net/license
 
-The template is used under the Creative Commons Attribution 3.0 License.
+---
+
+## Author
+
+**Shai Osmo**
+
+GitHub:
+https://github.com/ShaiOsmo
