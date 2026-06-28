@@ -1,30 +1,55 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# קהילת הזהב – נהריה
+
+## אתר הדגמה (Demo)
+
+אתר זה נבנה כפרויקט הדגמה במסגרת לימוד ופיתוח אתרי אינטרנט.
+
+מטרת האתר היא להציג רעיון למרכז קהילתי דיגיטלי עבור בני הגיל השלישי, המרכז במקום אחד מגוון פעילויות, תכנים ואפשרויות להשתתפות בקהילה.
+
+האתר נועד להעניק מקום נגיש, נעים ומעשיר להפגת זמן איכות בבית, במיוחד בתקופה המאתגרת שבה אנו נמצאים. באמצעות תרגילי בריאות ותנועה, משחקי חשיבה, הרצאות, פעילויות משותפות עם הנכדים, מפגשים חברתיים ואפשרויות להתנדבות,ניתן לשמור על אורח חיים פעיל, ללמוד דברים חדשים ולהמשיך להיות חלק מקהילה תומכת.
+
+## האתר כולל
+
+### 🏃 בריאות ותנועה
+תכנים המעודדים שמירה על אורח חיים בריא באמצעות סרטוני פיזיותרפיה, ריפוי בעיסוק ותרגילי כושר המותאמים לבני הגיל השלישי.
+
+### 🧠 משחקי חשיבה
+מגוון משחקים ופעילויות המסייעים בשמירה על הזיכרון, הריכוז והיכולות הקוגניטיביות, כגון תשבצים, סודוקו, חידות ואתגרי חשיבה.
+
+### 🎓 עולם של ידע והרצאות
+אוסף הרצאות וסרטונים במגוון תחומים, בהם בריאות, היסטוריה, טכנולוגיה, ספרות, תרבות, טבע ומדע – במטרה לעודד למידה מתמשכת והעשרת הידע.
+
+### 👨‍👩‍👧 מבלים עם הנכדים
+רעיונות לפעילויות משותפות עם הנכדים, כולל משחקים, מתכונים להכנה משותפת, יצירה, סיפורים וסרטונים המתאימים לכל המשפחה.
+
+### 🤝 נפגשים בקהילה
+לוח אירועים ופעילויות קהילתיות המרכז מידע על הרצאות, ערבי שירה, הצגות, הקרנות סרטים, חוגים, מפגשים חברתיים ואירועים המתקיימים במרכזים קהילתיים ברחבי העיר.
+
+### ❤️ התנדבות
+מרכז מידע על אפשרויות התנדבות בקהילה, בעמותות, בבתי חולים, בגופי רווחה ובסיוע למען חיילי צה"ל, במטרה לעודד מעורבות חברתית ונתינה.
+
+### 📞 יצירת קשר
+עמוד המאפשר ליצור קשר עם מנהלי האתר, לשלוח הצעות ורעיונות לשיפור, לדווח על בעיות, ולהציע פעילויות ותכנים חדשים לטובת הקהילה.
+
+**שימו לב:**  
+האתר הינו אתר הדגמה בלבד. התכנים, הקישורים והפעילויות המוצגים בו נועדו להמחשה ואינם מייצגים פעילות רשמית של עיריית נהריה או של כל גוף אחר.
+
+---
+
+**פותח על ידי:**  
+Shai Osmo
+
+**טכנולוגיות:**  
+HTML • CSS • JavaScript
 
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Credits
 
-(* = not included)
+This project is based on the **Phantom** template by **HTML5 UP**.
 
-AJ
-aj@lkn.io | @ajlkn
+Template: https://html5up.net/phantom
 
+Design by AJ (AJ Kohn) – HTML5 UP.
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The template is used under the Creative Commons Attribution 3.0 License.
